@@ -6,7 +6,7 @@ import org.springframework.web.servlet.support.AbstractAnnotationConfigDispatche
 import javax.servlet.Filter;
 //配置servlet,代替了web.xml.自动注册了contextLoaderListener和dispatcherServlet
 
-public class WangSpringInitializer extends AbstractAnnotationConfigDispatcherServletInitializer {
+public class WangSpringInitializer{// extends AbstractAnnotationConfigDispatcherServletInitializer {
     protected Class<?>[] getRootConfigClasses() {
         return new Class[]{SpringConfig.class};
     }
@@ -19,7 +19,7 @@ public class WangSpringInitializer extends AbstractAnnotationConfigDispatcherSer
         return new String[]{"/"};
     }
 
-    @Override
+
     protected Filter[] getServletFilters() {
 
         CharacterEncodingFilter characterEncodingFilter = new CharacterEncodingFilter();
