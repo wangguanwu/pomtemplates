@@ -11,7 +11,7 @@
         <velocity-demo-version>1.0</velocity-demo-version>
         <spring-version>4.2.6.RELEASE</spring-version>
         <logversion>1.8.0-beta4</logversion>
-        <log4jversion>2.11.1</log4jversion>
+        <log4jversion>2.16.0</log4jversion>
         <pluginversion>3.8.1</pluginversion>
         <mysqlversion>5.1.46</mysqlversion>
         <redisversion>3.0.1</redisversion>
