@@ -13,7 +13,7 @@
         <logversion>1.8.0-beta4</logversion>
         <log4jversion>2.11.1</log4jversion>
         <pluginversion>3.8.1</pluginversion>
-        <mysqlversion>5.1.46</mysqlversion>
+        <mysqlversion>8.0.28</mysqlversion>
         <redisversion>3.0.1</redisversion>
         <rocketmqversion>4.4.0</rocketmqversion>
         <jacksonversion>2.9.8</jacksonversion>
