@@ -9,7 +9,7 @@
     <version>1.0-SNAPSHOT</version>
     <properties>
         <velocity-demo-version>1.0</velocity-demo-version>
-        <spring-version>4.2.6.RELEASE</spring-version>
+        <spring-version>5.2.20.RELEASE</spring-version>
         <logversion>1.8.0-beta4</logversion>
         <log4jversion>2.11.1</log4jversion>
         <pluginversion>3.8.1</pluginversion>
